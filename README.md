@@ -1,20 +1,20 @@
-# Docker sample with NextJs and Mongo
+# Docker Sample with Next.js and MongoDB
 
-This is a [Next.js](https://nextjs.org/) fullstack sample project with [MongoDB](https://www.mongodb.com/) as NoSQL database and using [Docker](https://www.docker.com/) to run and deploy the application.
+This is a sample project showcasing a fullstack application built with Next.js, utilizing MongoDB as the NoSQL database and Docker for seamless deployment and runtime environment management.
 
 ## Features
 
-> 1. fullstack development with NextJs.
+> 1. Fullstack development with Next.js.
+ 
+> 2. Integration of MongoDB as the NoSQL database.
 
-> 2. using MongoDB as NoSQL database.
+> 3. Utilization of Mongo Express for MongoDB database management.
 
-> 3. using Mongo Express to manage MongoDB Database.
+> 4. Persistence of database records using Docker volumes.
 
-> 4. using docker volume to persist database records.
+> 5. Simplified image building and container execution with Docker.
 
-> 5. using docker to build images and run containers.
-
-> 6. using docker compose to run services in a docker network.
+> 6. Running services in a Docker network using Docker Compose.
 
 ### How To Use
 
